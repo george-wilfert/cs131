@@ -429,23 +429,160 @@
   429  ls -ltr
   430  history
   431  find /tmp -time 
-  432  mkdir Worksheet2
+  432  ls
   433  cd Worksheet2/
-  434  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/Global%20YouTube%20Statistics.csv
-  435  ls
-  436  vi Global\ YouTube\ Statistics.csv 
-  437  grep "United States" Global\ YouTube\ Statistics.csv 
-  438  grep "United States" Global\ YouTube\ Statistics.csv > counts.txt
-  439  vim counts.txt 
-  440  grep ",Music" Global\ YouTube\ Statistics.csv >> counts.txt 
-  441  vim counts
-  442  ls
-  443  vi counts.txt 
-  444  man wc
-  445  wc -l counts.txt >> counts.txt 
-  446  wc -c counts.txt >> counts.txt 
-  447  vi counts.txt 
-  448  wc -w counts.txt >> counts.txt 
-  449  vim counts.txt 
-  450  ls
-  451  history > cmds.log
+  434  ls
+  435  vi counts.txt 
+  436  grep "Avicii" counts.txt 
+  437  grep "Lamar" counts.txt 
+  438  grep "Sony" counts.txt 
+  439  git status
+  440  git commit -m
+  441  git commit -m test
+  442  git config --global user.email "georgewilfert14@gmail.com"
+  443  git config --global user.name "george-wilfert"
+  444  git commit -m test
+  445  git add Worksheet2
+  446  ls
+  447  cd ..
+  448  ls
+  449  git add Worksheet2
+  450  git status
+  451  git commit -m worksheet 2
+  452  git commit -m worksheet2
+  453  git stauts
+  454  git status
+  455  git push
+  456  git push Worksheet2
+  457  git status
+  458  git remote add https://github.com/george-wilfert/cs131
+  459  git remote add https://github.com/george-wilfert/cs131 -m
+  460  git push origin main
+  461  git status
+  462  ls
+  463  git add Worksheet2/
+  464  git status
+  465  git remote -v
+  466  git init
+  467  git status
+  468  git add Worksheet2/
+  469  git status
+  470  git commit -m 
+  471  git commit -m "Worksheet 2"
+  472  git remote add https://github.com/george-wilfert/cs131/tree/main/Worksheet%201
+  473  git remote add https://github.com/george-wilfert/cs131/tree/main/Worksheet%201 -t
+  474  git remote add https://github.com/george-wilfert/cs131/tree/main/Worksheet%201 --track
+  475  git remote add https://github.com/george-wilfert/cs131/tree/main/Worksheet%201 --main
+  476  git status
+  477  git remote add git@github.com:george-wilfert/cs131.git
+  478  git clone git@github.com:george-wilfert/cs131.git
+  479  ls
+  480  cd git
+  481  cd githubproject/
+  482  ls
+  483  cs131
+  484  cd cs131/
+  485  ls
+  486  history
+  487  cd ..
+  488  cd..
+  489  cd ..
+  490  ls
+  491  mv Worksheet2/ githubproject/
+  492  ls
+  493  cd githubproject/
+  494  ls
+  495  mv Worksheet2/ cs131
+  496  ls
+  497  cd cs131
+  498  ls
+  499  cd Worsheet2
+  500  cd Worksheet2
+  501  ls
+  502  cd cmds
+  503  cd cmds.log
+  504  ls
+  505  cd cmds.log
+  506  cat cmds.log 
+  507  vi counts.txt 
+  508  git status
+  509  git init
+  510  git config --global init.defaultBranch main
+  511  git init
+  512  git status
+  513  cd..
+  514  cd ..
+  515  git status
+  516  git add Worksheet2/
+  517  git commit -m "Adding worksheet 2"
+  518  git add Worksheet2/
+  519  git add .
+  520  cd ..
+  521  ls
+  522  cd cs131
+  523  mv Worksheet2 githubproject
+  524  ls
+  525  cd ..
+  526  ls
+  527  cd cs131
+  528  ls
+  529  cd githubproject/
+  530  ls
+  531  cd ..
+  532  mv githubproject/cs131 githubproject
+  533  ls
+  534  cd cs131
+  535  ls
+  536  mv githubproject/ Worksheet2
+  537  ls
+  538  mv Worsheet2 ..
+  539  mv Worksheet2 ..
+  540  ls
+  541  cd ..
+  542  ls
+  543  cd Worksheet2/
+  544  ls
+  545  cd ..
+  546  git status
+  547  git add Worksheet2/
+  548  git add Worksheet2/ 
+  549  ls
+  550  mv Worksheet2/ ..
+  551  ls
+  552  cd ..
+  553  ls
+  554  git status
+  555  git add Worksheet2/
+  556  git status
+  557  ls
+  558  cd files
+  559  ls
+  560  cd ..
+  561  git status
+  562  git add Worksheet2/
+  563  git status
+  564  cd .git/
+  565  ls
+  566  cd cranches
+  567  cd branches
+  568  ls
+  569  $HOME
+  570  cd $HOME
+  571  ls
+  572  cd Worksheet2/
+  573  ls
+  574  cd counts
+  575  cat counts.txt 
+  576  :wq!
+  577  rm counts.txt 
+  578  rm cmds.log 
+  579  ls
+  580  grep ",Music" Global\ YouTube\ Statistics.csv > counts.txt
+  581  ls
+  582  grep ",Music," Global\ YouTube\ Statistics.csv > counts.txt
+  583  ls
+  584  wc -l counts.txt >> counts.txt 
+  585  wc -w counts.txt >> counts.txt 
+  586  vim counts.txt 
+  587  grep ",United States," Global\ YouTube\ Statistics.csv 
+  588  history > cmds.log
