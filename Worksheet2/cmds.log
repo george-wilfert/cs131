@@ -1,0 +1,451 @@
+    1  passwd
+    2  ping 172.20.25.9
+    3  passwd
+    4  wget www.github.com
+    5  pwd
+    6  ls
+    7  pwd
+    8  echo $SHELL
+    9  echo "hello"
+   10  mkdir files
+   11  ls
+   12  cd files
+   13  pwd
+   14  ls-l
+   15  ls -l
+   16  man -ls
+   17  man
+   18  man ls
+   19  man vi
+   20  man -l
+   21  man ls
+   22  man pwd
+   23  man cat
+   24  man rm
+   25  man awk
+   26  man ls
+   27  man --usage
+   28  man --path
+   29  --path
+   30  man --extensions
+   31  man --locale
+   32  --locale
+   33  man -tar
+   34  man tar
+   35  tar --help
+   36  clear
+   37  tar--help
+   38  tar --help
+   39  wget www.github.com
+   40  history
+   41  ls
+   42  wget www.github.com
+   43  mkdir githubproject
+   44  cd githubproject
+   45  git init
+   46  touch worksheet1.txt
+   47  ls
+   48  git status
+   49  git add worksheet1.txt
+   50  git status
+   51  git commit -m "This is my first commit"
+   52  git branch
+   53  git remote add origin https://github.com/george-wilfert/cs131.git
+   54  git push -u origin master
+   55  git push origin worksheet1.txt
+   56  cd worksheet1.txt
+   57  --global georgesp24@sjsu
+   58  git config --global georgesp24@sjsu
+   59  git commit -m "This is my first commit"
+   60  git config george
+   61  git config georgesp24@sjsu
+   62  git clone https://github.com/george-wilfert/cs131.git
+   63  history > cmds.log
+   64  ls
+   65  git status
+   66  git add cmds.log
+   67  git status
+   68  git commit -m "test"
+   69  git config georgesp24@sjsu githubproject
+   70  git confi
+   71  git config
+   72  git config --get
+   73  git -- get
+   74  git config --system
+   75  git config georgewilfert14@gmail.com
+   76  git config george 
+   77  git config georgewilfert
+   78  git config --global user.email "georgesp24@sjsu"
+   79  git commit  -m "Test"
+   80  git config --global user.email "georgesp24@sjsu"
+   81  git status
+   82  git add cs 131/
+   83  git add cs131/
+   84  git rm --cached cs131
+   85  -f
+   86  git status
+   87  git push origin master
+   88  git push cmds.logs origin master
+   89  git remote add origin https://github.com/george-wilfert/cs131
+   90  git commit -m "test"
+   91  git push origin main
+   92  git config --global gw14csw@outlook.com
+   93  git config --global georgewilfert14
+   94  git config --global gw14csw
+   95  git config --global gerogesp24@sjsu 
+   96  git config --global georgesp24@sjsu
+   97  git config "georgesp24@sjsu"
+   98  git rm --cached cs131 -f
+   99  git status
+  100  git push 
+  101  git push origin master
+  102  git commit -m "test"
+  103  git config user.name "george-wilfert"
+  104  git config user.email "georgewilfert14@gmail.com"
+  105  git commit -m "test"
+  106  git push origin main
+  107  git status
+  108  git push origin main
+  109  git add cs131/
+  110  git commit -m "test"
+  111  git staus
+  112  git status
+  113  git push origin main
+  114  git push origin master
+  115  git push origin main
+  116  git push origin master
+  117  git push origin main
+  118  [georgesp24@sjsu githubproject]$ git push origin main
+  119  git status
+  120  git push origin master
+  121  [georgesp24@sjsu githubproject]$ git push origin main[georgesp24@sjsu githubproject]$ git push origin main
+  122  git init
+  123  git status
+  124  cd githubproject
+  125  ls
+  126  git status
+  127  cat cmds.log
+  128  git push origin master
+  129  git init
+  130  cd githubproject
+  131  ls
+  132  git status
+  133  cd cmds.log
+  134  cat cmds.log
+  135  git push origin main
+  136  git push origin master
+  137  git push main origin
+  138  git push origin main
+  139  git push -u origin master
+  140  ls
+  141  git rm --cached cs131
+  142  git stauts
+  143  git status
+  144  git commit -m "deleted clone"
+  145  git stauts
+  146  git status
+  147  cd cs131
+  148  ls
+  149  /
+  150  ..
+  151  :
+  152  help
+  153  ~
+  154  ls
+  155  cs githubproject
+  156  cd githubproject
+  157  ls
+  158  git init
+  159  git status
+  160  git push origin master
+  161  git remote set-url origin https://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@github.com/george-wilfert/cs131
+  162  git push origin main
+  163  git push origin master
+  164  ls
+  165  cd files
+  166  ls
+  167  ~
+  168  ls
+  169  cat index.html
+  170  clear
+  171  cat githubproject/
+  172  ls
+  173  head index.html
+  174  more
+  175  man
+  176  man more
+  177   
+  178  pager more
+  179  man pager
+  180  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/spotify-2023.csv
+  181  ls
+  182  head spotify-2023.csv 
+  183  Pager
+  184  more
+  185  head spotify-2023.csv 
+  186  more
+  187  more --help
+  188  more spotify-2023.csv 
+  189  tail spotify-2023.csv 
+  190  clear
+  191  tail -2 spotify-2023.csv 
+  192  tail -15 spotify-2023.csv
+  193  clear
+  194  man tail
+  195  tail -f spotify-2023.csv 
+  196  ls
+  197  nano
+  198  nano spotify-2023.csv 
+  199  head spotify-2023.csv 
+  200  nano spotify-2023.csv 
+  201  clear
+  202  vi spotify-2023.csv 
+  203  head spotify-2023.csv 
+  204  vim spotify-2023.csv 
+  205  head spotify-2023.csv 
+  206  vim spotify-2023.csv 
+  207  vi spotify-2023.csv 
+  208  ls
+  209  cd githubproject/
+  210  ls
+  211  ..
+  212  cd ..
+  213  ls
+  214  vim spotify-2023.csv 
+  215  ls
+  216  vi unsorted.txt 
+  217  sort unsorted.txt 
+  218  cat unsorted.txt 
+  219  sort unsorted.txt 
+  220  sort unsorted.txt > sorted.txt
+  221  cat sorted.txt 
+  222  echo "Hello"
+  223  echo "Hello" > echofile.txt
+  224  cat echofile.txt 
+  225  ls
+  226  clear
+  227  man wc
+  228  cat sorted.txt 
+  229  wc sorted.txt 
+  230  wc -l sorted.txt 
+  231  wc -b sorted.txt 
+  232  wc -c sorted.txt 
+  233  wc -w sorted.txt 
+  234  man grep
+  235  grep 'Drake' spotify-2023.csv 
+  236  grep 'Kanye' spotify-2023.csv 
+  237  clear
+  238  grep 'Taylor Swift' spotify-2023.csv 
+  239  grep 'Taylor Swift' spotify-2023.csv > linesWithTaylor.txt
+  240  ls
+  241  wc -l linesWithTaylor.txt 
+  242  wc -l spotify-2023.csv 
+  243  pwd
+  244  echo "pwd"
+  245  echo 'pwd'
+  246  echo `pwd`
+  247  echo $home
+  248  echo $HOME
+  249  echo $SHELL
+  250  pwd
+  251  cd githubproject/
+  252  pwd
+  253  cd $HOME
+  254  pwd
+  255  USer
+  256  USER
+  257  $USER
+  258  clear
+  259  `pwd`
+  260  clear
+  261  a = 123
+  262  a=123
+  263  echo $a
+  264  export -f %a
+  265  clear
+  266  history
+  267  vim spotify-2023.csv 
+  268  ls
+  269  cat unsorted.txt 
+  270  grep Drake spotify-2023.csv > Drake_Taylor
+  271  grep Taylor Swift spotify-2023.csv 
+  272  grep "Taylor Swift" spotify-2023.csv >> Drake_Taylor 
+  273  cat Drake_Taylor 
+  274  wc -l Drake_Taylor 
+  275  history
+  276  git init
+  277  git status
+  278  ls
+  279  mkdir practice
+  280  ls
+  281  cd practice
+  282  ls
+  283  python3
+  284  java
+  285  whereis java
+  286  ls -latr
+  287  man ls
+  288  man ls -latr
+  289  ls -latr
+  290  cd ..
+  291  ls -latr
+  292  cat .bashrc
+  293  lll
+  294  .bashrc
+  295  vi .bash_profile
+  296  ls -latr
+  297  vi .bashrc
+  298  ls -latr
+  299  lll
+  300  vim .bashrc
+  301  lll
+  302  source .bashrc
+  303  lll
+  304  cat /etc/group
+  305  ls
+  306  lll practice/
+  307  cat /etc/passwd
+  308  cat /etc/shadow
+  309  sudo cat /etc/shadow
+  310  pwd
+  311  su ashish
+  312  cat /etc/suderors
+  313  cat /etc/sudeors
+  314  grep wheel /etc/group
+  315  man chown
+  316  cd githubproject/
+  317  vim history
+  318  ls
+  319  cd cs131/
+  320  ls
+  321  cd Worksheet\ 1/
+  322  ls
+  323  cd worksh
+  324  cd worksheet1
+  325  vim worksheet1 
+  326  $HOME
+  327  cd $HOME
+  328  cat /mnt/scratch/FA23_CS131_Ashish/ashish/a.txt
+  329  cat a.txt
+  330  ls
+  331  mv Drake_Taylor practice/
+  332  ls
+  333  mv linesWithTaylor.txt practice/
+  334  mv spotify-2023.csv 
+  335  mv spotify-2023.csv practice/
+  336  ls
+  337  mv index.html practice/
+  338  mv echofile.txt practice/
+  339  mv index.html.1 practice/
+  340  mv sorted.txt practice/
+  341  mv unsorted.txt pr
+  342  mv unsorted.txt practice/
+  343  ls
+  344  dl pr
+  345  delete pr
+  346  man
+  347  man del
+  348  rm pr
+  349  ls
+  350  cat /mnt/scratch/FA23_CS131_Ashish/ashish/a.txt
+  351  vim /mnt/scratch/FA23_CS131_Ashish/ashish/a.txt
+  352  ls
+  353  whoami
+  354  ls -latr
+  355  man ls
+  356  ls -l
+  357  grep bob /etc/passwd
+  358  useradd bob
+  359  grep bob /etc/passwd
+  360  echo /etc/passwd
+  361  ls /etc/passwd
+  362  cat /etc/passwd
+  363  clear
+  364  man passwd
+  365  clear
+  366  ls
+  367  cd practice/
+  368  cat /etc/passwd
+  369  clear
+  370  ls
+  371  cd ..
+  372  ls
+  373  clear
+  374  ps aux
+  375  clear
+  376  su 
+  377  echo hello
+  378  echo hello | ls
+  379  clear
+  380  crontab -l
+  381  cat /etc/crontab
+  382  crontab -e
+  383  crontab -l
+  384  crontab -r
+  385  clear
+  386  git init
+  387  git add A
+  388  git status
+  389  git push
+  390  ls
+  391  history
+  392  clear
+  393  pwd
+  394  ls
+  395  cd practice/
+  396  vi a.txt
+  397  ls
+  398  ls -ltr | grep spotify-2023.csv 
+  399  grep -i 'ice spice' spotify-2023.csv 
+  400  grep -i 'ice spice' spotify-2023.csv | grep "PinkPantheress"
+  401  grep -i 'ice spice' spotify-2023.csv | grep "PinkPantheress" | wc -l
+  402  ls -ltr | wc-l
+  403  ls -ltr | wc -l
+  404  ls
+  405  ls -ltr
+  406  chmod 777 sorted.txt 
+  407  ls -ltr
+  408  chmod g-wxr sorted.txt 
+  409  ls -ltr
+  410  chmod g+r
+  411  chmod g+r spotify-2023.csv 
+  412  ls -ltr
+  413  chmod g+r sorted.txt 
+  414  ls -ltr
+  415  chmod g+wx sorted.txt 
+  416  ls -ltr
+  417  ls
+  418  cat sorted.txt 
+  419  vim sorted.txt 
+  420  cat sorted.txt 
+  421  chmod a-xw sorted.txt 
+  422  ls -ltr
+  423  vim sorted.txt 
+  424  cat sorted.txt 
+  425  ls -ltr
+  426  chmod 552 sorted.txt 
+  427  ls -ltr
+  428  chmod 664 sorted.txt 
+  429  ls -ltr
+  430  history
+  431  find /tmp -time 
+  432  mkdir Worksheet2
+  433  cd Worksheet2/
+  434  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/Global%20YouTube%20Statistics.csv
+  435  ls
+  436  vi Global\ YouTube\ Statistics.csv 
+  437  grep "United States" Global\ YouTube\ Statistics.csv 
+  438  grep "United States" Global\ YouTube\ Statistics.csv > counts.txt
+  439  vim counts.txt 
+  440  grep ",Music" Global\ YouTube\ Statistics.csv >> counts.txt 
+  441  vim counts
+  442  ls
+  443  vi counts.txt 
+  444  man wc
+  445  wc -l counts.txt >> counts.txt 
+  446  wc -c counts.txt >> counts.txt 
+  447  vi counts.txt 
+  448  wc -w counts.txt >> counts.txt 
+  449  vim counts.txt 
+  450  ls
+  451  history > cmds.log
