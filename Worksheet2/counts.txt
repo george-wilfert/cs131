@@ -1,4 +1,0 @@
-Number of lines in music 236
-Number of words in music 824
-Number of lines in United States 302
-Number of words in United States 1448
