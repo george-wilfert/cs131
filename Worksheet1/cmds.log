@@ -1,1 +1,187 @@
-1.
+ 1  passwd
+    2  ping 172.20.25.9
+    3  passwd
+    4  wget www.github.com
+    5  pwd
+    6  ls
+    7  pwd
+    8  echo $SHELL
+    9  echo "hello"
+   10  mkdir files
+   11  ls
+   12  cd files
+   13  pwd
+   14  ls-l
+   15  ls -l
+   16  man -ls
+   17  man
+   18  man ls
+   19  man vi
+   20  man -l
+   21  man ls
+   22  man pwd
+   23  man cat
+   24  man rm
+   25  man awk
+   26  man ls
+   27  man --usage
+   28  man --path
+   29  --path
+   30  man --extensions
+   31  man --locale
+   32  --locale
+   33  man -tar
+   34  man tar
+   35  tar --help
+   36  clear
+   37  tar--help
+   38  tar --help
+   39  wget www.github.com
+   40  history
+   41  ls
+   42  wget www.github.com
+   43  mkdir githubproject
+   44  cd githubproject
+   45  git init
+   46  touch worksheet1.txt
+   47  ls
+   48  git status
+   49  git add worksheet1.txt
+   50  git status
+   51  git commit -m "This is my first commit"
+   52  git branch
+   53  git remote add origin https://github.com/george-wilfert/cs131.git
+   54  git push -u origin master
+   55  git push origin worksheet1.txt
+   56  cd worksheet1.txt
+   57  --global georgesp24@sjsu
+   58  git config --global georgesp24@sjsu
+   59  git commit -m "This is my first commit"
+   60  git config george
+   61  git config georgesp24@sjsu
+   62  git clone https://github.com/george-wilfert/cs131.git
+   63  history > cmds.log
+   64  ls
+   65  git status
+   66  git add cmds.log
+   67  git status
+   68  git commit -m "test"
+   69  git config georgesp24@sjsu githubproject
+   70  git confi
+   71  git config
+   72  git config --get
+   73  git -- get
+   74  git config --system
+   75  git config georgewilfert14@gmail.com
+   76  git config george
+   77  git config georgewilfert
+   78  git config --global user.email "georgesp24@sjsu"
+   79  git commit  -m "Test"
+   80  git config --global user.email "georgesp24@sjsu"
+   81  git status
+   82  git add cs 131/
+   83  git add cs131/
+   84  git rm --cached cs131
+   85  -f
+   86  git status
+   87  git push origin master
+   88  git push cmds.logs origin master
+   89  git remote add origin https://github.com/george-wilfert/cs131
+   90  git commit -m "test"
+   91  git push origin main
+   92  git config --global gw14csw@outlook.com
+   93  git config --global georgewilfert14
+   94  git config --global gw14csw
+   95  git config --global gerogesp24@sjsu
+   96  git config --global georgesp24@sjsu
+   97  git config "georgesp24@sjsu"
+   98  git rm --cached cs131 -f
+   99  git status
+  100  git push
+  101  git push origin master
+  102  git commit -m "test"
+  103  git config user.name "george-wilfert"
+  104  git config user.email "georgewilfert14@gmail.com"
+  105  git commit -m "test"
+  106  git push origin main
+  107  git status
+  108  git push origin main
+  109  git add cs131/
+  110  git commit -m "test"
+  111  git staus
+  112  git status
+  113  git push origin main
+  114  git push origin master
+  115  git push origin main
+  116  git push origin master
+  117  git push origin main
+  118  [georgesp24@sjsu githubproject]$ git push origin main
+  119  git status
+  120  git push origin master
+  121  [georgesp24@sjsu githubproject]$ git push origin main[georgesp24@sjsu githubproject]$ git push origin main
+  122  git init
+  123  git status
+  124  cd githubproject
+  125  ls
+  126  git status
+  127  cat cmds.log
+  128  git push origin master
+  129  git init
+  130  cd githubproject
+  131  ls
+  132  git status
+  133  cd cmds.log
+  134  cat cmds.log
+  135  git push origin main
+  136  git push origin master
+  137  git push main origin
+  138  git push origin main
+  139  git push -u origin master
+  140  ls
+  141  git rm --cached cs131
+  142  git stauts
+  143  git status
+  144  git commit -m "deleted clone"
+  145  git stauts
+  146  git status
+  147  cd cs131
+  148  ls
+  149  /
+  150  ..
+  151  :
+  152  help
+  153  ~
+  154  ls
+  155  cs githubproject
+  156  cd githubproject
+  157  ls
+  158  git init
+  159  git status
+  160  git push origin master
+  161  git remote set-url origin https://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@github.com/george-wilfert/cs131
+  162  git push origin main
+  163  git push origin master
+  164  ls
+  165  cd files
+  166  ls
+  167  ~
+  168  ls
+  169  cat index.html
+  170  clear
+  171  cat githubproject/
+  172  ls
+  173  head index.html
+  174  more
+  175  man
+  176  man more
+  177
+  178  pager more
+  179  man pager
+  180  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/spotify-2023.csv
+  181  ls
+  182  head spotify-2023.csv
+  183  Pager
+  184  more
+  185  head spotify-2023.csv
+  186  more
+  187  more --help
