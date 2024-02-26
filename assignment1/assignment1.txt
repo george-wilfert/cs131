@@ -1,0 +1,51 @@
+This is question 2 printing shell, I used command echo $SHELL > shell_file:
+/bin/bash
+
+
+This is for question 2.5 prinintg home directory, I used command echo $HOME >> shell_file: 
+/mnt/scratch/FA23_CS131_Ashish/georgesp24
+
+
+This is for question 3 to find the groups I used the command cat /etc/passwd and then I grepped the ones with my username in order to find the groups I am in which is 1186 and the user ID:
+georgesp24:x:1186:1186::/mnt/scratch/FA23_CS131_Ashish/georgesp24:/bin/bash
+
+
+This is for question 4 I used chmod 577 to remove the write privledges for me by doing this I cannot create my files butI can ls -ltr and ls as I still have read permissions:
+
+
+For question 5 look at the directories in github:
+
+
+This is for question 6 I used free -m myFile.txt then moved and appended that to this file:
+              total        used        free      shared  buff/cache   available
+Mem:          71367       31285       21310        3576       18772       35047
+Swap:          4119           0        4119
+
+
+This is for question 9 it shows the opearting system details the verison is 8.6. I found this by searching /etc/*-release
+
+NAME="Red Hat Enterprise Linux"
+VERSION="8.6 (Ootpa)"
+ID="rhel"
+ID_LIKE="fedora"
+VERSION_ID="8.6"
+PLATFORM_ID="platform:el8"
+PRETTY_NAME="Red Hat Enterprise Linux 8.6 (Ootpa)"
+ANSI_COLOR="0;31"
+CPE_NAME="cpe:/o:redhat:enterprise_linux:8::baseos"
+HOME_URL="https://www.redhat.com/"
+DOCUMENTATION_URL="https://access.redhat.com/documentation/red_hat_enterprise_linux/8/"
+BUG_REPORT_URL="https://bugzilla.redhat.com/"
+
+REDHAT_BUGZILLA_PRODUCT="Red Hat Enterprise Linux 8"
+REDHAT_BUGZILLA_PRODUCT_VERSION=8.6
+REDHAT_SUPPORT_PRODUCT="Red Hat Enterprise Linux"
+REDHAT_SUPPORT_PRODUCT_VERSION="8.6"
+Red Hat Enterprise Linux release 8.6 (Ootpa)
+Red Hat Enterprise Linux release 8.6 (Ootpa)
+
+This is for question 10 it shows the permissions that are for the files containing the OS info:
+
+lrwxrwxrwx. 1 root root 14 Apr  6  2022 /etc/system-release -> redhat-release
+-rw-r--r--. 1 root root 45 Apr  6  2022 /etc/redhat-release
+lrwxrwxrwx. 1 root root 22 Apr  6  2022 /etc/os-release -> ..//usr/lib/os-release
