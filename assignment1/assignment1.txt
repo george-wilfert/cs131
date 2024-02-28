@@ -1,3 +1,5 @@
+Question 1: mkdir assignment1.
+
 This is question 2 printing shell, I used command echo $SHELL > shell_file:
 /bin/bash
 
@@ -6,17 +8,17 @@ This is for question 2.5 prinintg home directory, I used command echo $HOME >> s
 /mnt/scratch/FA23_CS131_Ashish/georgesp24
 
 
-This is for question 3 to find the groups I used the command cat /etc/passwd and then I grepped the ones with my username in order to find the groups I am in which is 1186 and the user ID:
+This is for question 3 to find the groups I used the command cat /etc/passwd and then I grepped the ones with my username in order to find the groups I am in which is 1186 and the user ID: cat /etc/passwd | grep 'georgesp24' 
 georgesp24:x:1186:1186::/mnt/scratch/FA23_CS131_Ashish/georgesp24:/bin/bash
 
 
-This is for question 4 I used chmod 577 to remove the write privledges for me by doing this I cannot create my files butI can ls -ltr and ls as I still have read permissions:
+This is for question 4 I used the command "chmod 577 myDir1" to remove the write privledges for me by doing this I cannot create my files butI can ls -ltr and ls as I still have read permissions:
 
 
-For question 5 look at the directories in github:
+For question 5 look at the directories in github commands I used were mkdir myDir2 and mkdir myDir3:
 
 
-This is for question 6 I used free -m myFile.txt then moved and appended that to this file:
+This is for question 6 I used free -m myFile.txt then moved and appended that to this file. This was after using commmad touch myFile.txt and mv myFile.txt .. then mv myFile.txt myDir3:
               total        used        free      shared  buff/cache   available
 Mem:          71367       31285       21310        3576       18772       35047
 Swap:          4119           0        4119
@@ -44,8 +46,9 @@ REDHAT_SUPPORT_PRODUCT_VERSION="8.6"
 Red Hat Enterprise Linux release 8.6 (Ootpa)
 Red Hat Enterprise Linux release 8.6 (Ootpa)
 
-This is for question 10 it shows the permissions that are for the files containing the OS info:
+This is for question 10 it shows the permissions that are for the files containing the OS info command I used was ls -ltr /etc/*-release >> assignment1.txt:
 
 lrwxrwxrwx. 1 root root 14 Apr  6  2022 /etc/system-release -> redhat-release
 -rw-r--r--. 1 root root 45 Apr  6  2022 /etc/redhat-release
 lrwxrwxrwx. 1 root root 22 Apr  6  2022 /etc/os-release -> ..//usr/lib/os-release
+total 36
