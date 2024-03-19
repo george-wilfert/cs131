@@ -1,0 +1,66 @@
+Question 1)
+a) The command that was given finds all the /etc files in the system and then appends them to two different files one called one.txt and the other called two.txt
+b) I found that there were far more files in the one.txt file than the two.txt and all the files that were in the two.txt were permission denied compared to the ones in the one.txt
+
+
+
+
+
+
+
+Question 2)
+This is the command I used for number two 
+cut -d "," -f 20-21 Global\ YouTube\ Statistics.csv | sort | uniq --count | sort -n | tail -3
+     12 2014,Aug
+     13 2014,Jul
+     15 2006,Mar
+To explain what I did I first cut the document up into each column using the delimenator which was a comma and then chose the 20-21 occurence of this file to only pick out the months and year. After I sorted and used the uniq command in order to count each occurence after I sorted using -n for the numbers and then chose the top three values using tail -3.
+
+
+
+
+
+
+Question 3)
+ps aux | grep georgesp24
+root     3037455  0.0  0.0  56064 18368 ?        Ss   00:37   0:00 sshd: georgesp24 [priv]
+georges+ 3037477  0.0  0.0  49728 13440 ?        S    00:37   0:00 sshd: georgesp24@pts/10
+georges+ 3051168  0.0  0.0   8320  1792 pts/10   S+   01:16   0:00 grep --color=auto georgesp24
+
+
+
+
+
+Question 4)
+Before closing:
+Last login: Tue Mar 19 00:37:41 2024 from 172.29.97.136
+[georgesp24@sjsu ~]$ ps aux | grep georgesp24
+root     3037455  0.0  0.0  56064 18368 ?        Ss   00:37   0:00 sshd: georgesp24 [priv]
+georges+ 3037477  0.0  0.0  49728 13440 ?        S    00:37   0:00 sshd: georgesp24@pts/10
+root     3051766  0.0  0.0  56064 18432 ?        Ss   01:18   0:00 sshd: georgesp24 [priv]
+georges+ 3051778  0.0  0.0  49280 10368 ?        S    01:18   0:00 sshd: georgesp24@pts/0
+georges+ 3052022  0.0  0.0   8320  1792 pts/0    S+   01:19   0:00 grep --color=auto georgesp24
+After closing:
+[georgesp24@sjsu ~]$ ps aux | grep georgesp24
+root     3037455  0.0  0.0  56064 18368 ?        Ss   00:37   0:00 sshd: georgesp24 [priv]
+georges+ 3037477  0.0  0.0  49728 13440 ?        S    00:37   0:00 sshd: georgesp24@pts/10
+root     3051766  0.0  0.0  56064 18432 ?        Ss   01:18   0:00 sshd: georgesp24 [priv]
+georges+ 3051778  0.0  0.0  49280 10368 ?        S    01:18   0:00 sshd: georgesp24@pts/0
+georges+ 3052659  0.0  0.0   8320  1792 pts/0    S+   01:20   0:00 grep --color=auto georgesp24
+
+The process ID for vim is 3053151. The only change that I noticed from before and after the commands was the fact that there is a Start value which has a difference of one minute. I think this might be because the file was not closed so the process was still running until the other command was run then it saves the value for START.
+
+
+
+
+Question 5)
+ps aux | grep systemd | head -1
+root           1  0.6  0.0 178496 18304 ?        Ss    2023 832:03 /usr/lib/systemd/systemd --switched-root --system --deserialize 18
+
+The process id is one which makes sense because it is the first process to run on the VM
+
+
+
+
+Question 6)
+The command ps aux is very useful because it tells what processes are running on your computer and information about the processes. Other useful things it can tell you is the CPU and Memory percentage each proccess is taking which allows you to have a better understanding of your computer. You can also see which users and the stats of the process.
