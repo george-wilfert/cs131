@@ -1,0 +1,1000 @@
+  144  history > cmds.log
+  145  ls
+  146  cat cmds.log 
+  147  grep "United States" Global\ YouTube\ Statistics.csv 
+  148  wc -l | grep "Music" Global\ YouTube\ Statistics.csv 
+  149  ls
+  150  cd Worksheet2/
+  151  ls
+  152  vi counts.txt 
+  153  grep "Avicii" counts.txt 
+  154  grep "Lamar" counts.txt 
+  155  grep "Sony" counts.txt 
+  156  git status
+  157  git commit -m
+  158  git commit -m test
+  159  git config --global user.email "georgewilfert14@gmail.com"
+  160  git config --global user.name "george-wilfert"
+  161  git commit -m test
+  162  git add Worksheet2
+  163  ls
+  164  cd ..
+  165  ls
+  166  git add Worksheet2
+  167  git status
+  168  git commit -m worksheet 2
+  169  git commit -m worksheet2
+  170  git stauts
+  171  git status
+  172  git push
+  173  git push Worksheet2
+  174  git status
+  175  git remote add https://github.com/george-wilfert/cs131
+  176  git remote add https://github.com/george-wilfert/cs131 -m
+  177  git push origin main
+  178  git status
+  179  ls
+  180  git add Worksheet2/
+  181  git status
+  182  git remote -v
+  183  git init
+  184  git status
+  185  git add Worksheet2/
+  186  git status
+  187  git commit -m 
+  188  git commit -m "Worksheet 2"
+  189  git remote add https://github.com/george-wilfert/cs131/tree/main/Worksheet%201
+  190  git remote add https://github.com/george-wilfert/cs131/tree/main/Worksheet%201 -t
+  191  git remote add https://github.com/george-wilfert/cs131/tree/main/Worksheet%201 --track
+  192  git remote add https://github.com/george-wilfert/cs131/tree/main/Worksheet%201 --main
+  193  git status
+  194  git remote add git@github.com:george-wilfert/cs131.git
+  195  git clone git@github.com:george-wilfert/cs131.git
+  196  ls
+  197  cd git
+  198  cd githubproject/
+  199  ls
+  200  cs131
+  201  cd cs131/
+  202  ls
+  203  history
+  204  cd ..
+  205  cd..
+  206  cd ..
+  207  ls
+  208  mv Worksheet2/ githubproject/
+  209  ls
+  210  cd githubproject/
+  211  ls
+  212  mv Worksheet2/ cs131
+  213  ls
+  214  cd cs131
+  215  ls
+  216  cd Worsheet2
+  217  cd Worksheet2
+  218  ls
+  219  cd cmds
+  220  cd cmds.log
+  221  ls
+  222  cd cmds.log
+  223  cat cmds.log 
+  224  vi counts.txt 
+  225  git status
+  226  git init
+  227  git config --global init.defaultBranch main
+  228  git init
+  229  git status
+  230  cd..
+  231  cd ..
+  232  git status
+  233  git add Worksheet2/
+  234  git commit -m "Adding worksheet 2"
+  235  git add Worksheet2/
+  236  git add .
+  237  cd ..
+  238  ls
+  239  cd cs131
+  240  mv Worksheet2 githubproject
+  241  ls
+  242  cd ..
+  243  ls
+  244  cd cs131
+  245  ls
+  246  cd githubproject/
+  247  ls
+  248  cd ..
+  249  mv githubproject/cs131 githubproject
+  250  ls
+  251  cd cs131
+  252  ls
+  253  mv githubproject/ Worksheet2
+  254  ls
+  255  mv Worsheet2 ..
+  256  mv Worksheet2 ..
+  257  ls
+  258  cd ..
+  259  ls
+  260  cd Worksheet2/
+  261  ls
+  262  cd ..
+  263  git status
+  264  git add Worksheet2/
+  265  git add Worksheet2/ 
+  266  ls
+  267  mv Worksheet2/ ..
+  268  ls
+  269  cd ..
+  270  ls
+  271  git status
+  272  git add Worksheet2/
+  273  git status
+  274  ls
+  275  cd files
+  276  ls
+  277  cd ..
+  278  git status
+  279  git add Worksheet2/
+  280  git status
+  281  cd .git/
+  282  ls
+  283  cd cranches
+  284  cd branches
+  285  ls
+  286  $HOME
+  287  cd $HOME
+  288  ls
+  289  cd Worksheet2/
+  290  ls
+  291  cd counts
+  292  cat counts.txt 
+  293  :wq!
+  294  rm counts.txt 
+  295  rm cmds.log 
+  296  ls
+  297  grep ",Music" Global\ YouTube\ Statistics.csv > counts.txt
+  298  ls
+  299  grep ",Music," Global\ YouTube\ Statistics.csv > counts.txt
+  300  ls
+  301  wc -l counts.txt >> counts.txt 
+  302  wc -w counts.txt >> counts.txt 
+  303  vim counts.txt 
+  304  grep ",United States," Global\ YouTube\ Statistics.csv 
+  305  history > cmds.log
+  306  ls
+  307  cd ..
+  308  ls
+  309  git init
+  310  git status
+  311  git add Worksheet2/.
+  312  git status
+  313  git commit "Worksheet 2"
+  314  git commit -m "Worksheet 2"
+  315  git stauts
+  316  git status
+  317  git remote add https://github.com/george-wilfert/cs131.git
+  318  git remote add -m https://github.com/george-wilfert/cs131.git
+  319  git push -u origin main
+  320  git push -u origin master
+  321  git status
+  322  git remote add origin
+  323  git remote add origin https://github.com/george-wilfert/cs131.git
+  324  git status
+  325  git push -u origin master
+  326  git push -u origin main
+  327  git push -u origin master
+  328  git config --global user.name "george-wilfert"
+  329  git config --global user.email "georgewilfer14@gmail.com"
+  330  git config -l
+  331  git push -u origin master
+  332  git status
+  333  touch new.txt
+  334  ls
+  335  git status
+  336  git add new.txt 
+  337  git status
+  338  git commit -m "test"
+  339  git push -u origin master
+  340  history
+  341  ls
+  342  cd Worsheet2
+  343  cd Worksheet2
+  344  ls
+  345  rm counts.txt 
+  346  wc -l Global\ YouTube\ Statistics.csv > counts.txt
+  347  ls
+  348  vi counts.txt 
+  349  wc -l | grep ',Music,' Global\ YouTube\ Statistics.csv > counts.txt
+  350  ls
+  351  cd Worksheet2/
+  352  ls
+  353  vi counts.txt 
+  354  grep ',Music,' Global\ YouTube\ Statistics.csv | wc -l> counts.txt
+  355  vi counts.txt 
+  356  grep ',Music,' Global\ YouTube\ Statistics.csv | wc -w>> counts.txt
+  357  vim counts.txt 
+  358  grep ',United States,' Global\ YouTube\ Statistics.csv | wc -l>> counts.txt
+  359  grep ',United States,' Global\ YouTube\ Statistics.csv | wc -w>> counts.txt
+  360  vim counts.txt 
+  361  stat hasSomeData
+  362  ls
+  363  stats Worksheet2/
+  364  stat Worksheet2/
+  365  stat practice/
+  366  git status
+  367  history > cmds.log
+  368  cat cmds.log 
+  369  git init
+  370  git status
+  371  ls
+  372  mv cmds.log Worksheet2/
+  373  git status
+  374  git add Worksheet2/
+  375  git commit -m "Redo worksheet 2"
+  376  git push -u origin master
+  377  ls
+  378  git status
+  379  git push -u origin master
+  380  git pull
+  381  git push -u origin master
+  382  git pull
+  383  ls
+  384  cd Worksheet
+  385  cd Worksheet2
+  386  ls
+  387  vim counts_2.txt 
+  388  git pull
+  389  git push -u origin master
+  390  cd ..
+  391  git pull
+  392  ls
+  393  git status
+  394  git add Worksheet2/counts_2.txt
+  395  git status
+  396  git push -u origin master
+  397  git pull
+  398  git commint -m "test"
+  399  git commit -m "test"
+  400  git pull
+  401  git config pull.rebase false
+  402  git pull
+  403  git stauts
+  404  git status
+  405  git push -u origin master
+  406  ls
+  407  cd assignment1/
+  408  ls
+  409  cat shell_file 
+  410  echo $SHELL
+  411  echo $SHELL >shell_file 
+  412  cat shell_file 
+  413  echo $HOME >> shell_file 
+  414  vi shell_file 
+  415  sudo cat /etc/passwd
+  416  cat /etc/passwd
+  417  cat /etc/passwd | grep 'georgesp25'
+  418  cat /etc/passwd | grep 'georgesp24'
+  419  cat /etc/passwd | grep 'georgesp24' >> shell_file 
+  420  vim shell_file 
+  421  id -g georgesp24
+  422  vim shell_file 
+  423  mkdir myDir
+  424  ls
+  425  chmod mrDir 7
+  426  man chmod
+  427  chmod mrDir 577
+  428  chmod 577 myDir/
+  429  ls -ltr
+  430  mv shell_file assignment1.txt
+  431  ls
+  432  vim assignment1.txt 
+  433  mkdir myDir2
+  434  mkdir myDir3
+  435  cd myDir2
+  436  vim myFile.txt
+  437  ls
+  438  mv myFile.txt myDir3
+  439  cd ..
+  440  ls
+  441  cd myDir3
+  442  ls
+  443  cd ..
+  444  myDir2
+  445  cd myDir2
+  446  ls
+  447  mv myDir3 myFile.txt
+  448  ls
+  449  cd ..
+  450  mv myFile.txt myDir3
+  451  cd myDir2
+  452  ls
+  453  mv myFile.txt/* myDir3
+  454  mv myFile.txt ..
+  455  ls
+  456  cd ..
+  457  ls
+  458  mv myFile.txt myDir3
+  459  cd myDir3
+  460  ls
+  461  man free
+  462  myFile.txt free -m
+  463  free -m myFile.txt 
+  464  man free
+  465  free -m myFile.txt >> assignment1.txt
+  466  cd ..
+  467  cd myDir3
+  468  ls
+  469  vim assignment1.txt 
+  470  cd ..
+  471  ls
+  472  vi assignment1.txt 
+  473  cd myDir3 | free -m myFile.txt | cd .. | >> assignment1.txt 
+  474  vim assignment1.txt 
+  475  cd myDir3
+  476  ls
+  477  cat assignment1.txt 
+  478  mv assigment1.txt 1
+  479  mv assigment1.txt new
+  480  mv assigment1.txt new.txt
+  481  cd ..
+  482  ls
+  483  echo $PATH
+  484  cd myDir3
+  485  free -m myFile.txt tee -a/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin
+  486  ls
+  487  free -m myFile.txt > test
+  488  ls
+  489  mv test
+  490  mv test ..
+  491  cd ..
+  492  ls
+  493  cat test
+  494  ls
+  495  test >> assignment1.txt 
+  496  ls
+  497  cat assignment1.txt 
+  498  cat test
+  499  test >> assignment1.txt 
+  500  cat assignment1.txt 
+  501  cat test >> assignment1.txt 
+  502  ls
+  503  cat assignment1.txt 
+  504  vim assignment1.txt 
+  505  uname -r
+  506  uname 
+  507  uname -m
+  508  uname -a
+  509  cat /etc/*-release
+  510  cat /etc/*-release >> assignment1.txt 
+  511  ls -ltr /etc/*-release
+  512  ls -ltr /etc/*-release >> assignment1.txt 
+  513  vim assignment1.txt 
+  514  ls
+  515  vim assignment1.txt 
+  516  cd..
+  517  cd ..
+  518  ls
+  519  git status
+  520  git add assignment1/
+  521  git status
+  522  git commit -m "Assignment 1"
+  523  git push -u origin master
+  524  git pull
+  525  git push -u origin master
+  526  ls
+  527  cd assignment1/
+  528  ls
+  529  mrDir2
+  530  cd myDir2
+  531  touch test
+  532  cd ..
+  533  ls
+  534  rm test
+  535  ls
+  536  cd myDir
+  537  ls
+  538  vi test
+  539  ls
+  540  chmod myDir 777
+  541  chmod 777 myDir
+  542  cd ..
+  543  chmod 777 myDir
+  544  ls
+  545  ls -latr
+  546  cd myDIr
+  547  cd myDir
+  548  touch mydir.txt
+  549  ls
+  550  cd ..
+  551  ls
+  552  history > cmds.log
+  553  ls
+  554  cat cmds.log 
+  555  clear
+  556  chmod 577 myDir
+  557  ls -ltr myDir
+  558  cd ..
+  559  ls -latr
+  560  cd assignment1/
+  561  ls -latr
+  562  ls
+  563  git push -u origin master
+  564  git status
+  565  git add assignment1/
+  566  cd ..
+  567  git status
+  568  git add assignment1/
+  569  git status
+  570  cd assignment1/
+  571  cat cmds.log 
+  572  history > cmds.log
+  573  cd ..
+  574  git status 
+  575  git add assignment1/
+  576  git status 
+  577  git commit -m "test"
+  578  git push -u origin master
+  579  cd assignment1/
+  580  ls-latr 
+  581  ls-ltr >> assignment1.txt 
+  582  ls -ltr >> assignment1.txt 
+  583  vim assignment1.txt 
+  584  ls
+  585  mkdir assignment1
+  586  touch shell_file
+  587  ls
+  588  mv shell_file assignment1/
+  589  cd assignment1/
+  590  ls
+  591  echo `$SHELL
+  592  j
+  593  shell_file 
+  594  shell_file shell_file shell_file shell_file 
+  595  :wq!
+  596  cd assignment1/
+  597  ls
+  598  vim assignment1.txt 
+  599  cat /usr/bin/ls
+  600  cat /usr/bin/man
+  601  printenv
+  602  clear
+  603  printenv
+  604  whereis iperf
+  605  where is mkdir
+  606  whereis mkdir
+  607  ps
+  608  cat /usr/bin/cat
+  609  clear
+  610  ps
+  611  ps aux | head
+  612  ps aux
+  613  ps aux head
+  614  ps aux | head
+  615  next
+  616  ps aux | tail
+  617  ps u
+  618  ps a
+  619  ps x
+  620  ps aux | grep systemd
+  621  ps-afjx
+  622  ps-afjx | grep process_name
+  623  ps -afjx | grep process_name
+  624  ps -afjx | grep bash
+  625  top
+  626  find / -nam "CS131" -type d
+  627  find / -name "CS131" -type d
+  628  ls
+  629  cd practice/
+  630  ls
+  631  wc < spotify-2023.csv 
+  632  cd as
+  633  /
+  634  cd /
+  635  ls
+  636  cd home
+  637  ls
+  638  cd ..
+  639  cd bin
+  640  ls
+  641  cd ..
+  642  ls
+  643  cd home
+  644  cd sys
+  645  cd ..
+  646  cd root
+  647  cd sys
+  648  ls
+  649  cs power
+  650  cd power
+  651  ls
+  652  cd $HOME
+  653  ls
+  654  cd assignment1/
+  655  ls
+  656  vim assignment1.txt 
+  657  cd assignment
+  658  cd assignment1/
+  659  cat cmds.log 
+  660  clear
+  661  ls
+  662  cd assignment1/
+  663  ls
+  664  cd assigment1.txt
+  665  cd assignment1.txt
+  666  ls
+  667  vim assignment1.txt 
+  668  git status
+  669  git add assignment1.txt 
+  670  git commit -m "update"
+  671  git status
+  672  git push -u origin master
+  673  cd ..
+  674  /
+  675  cd /
+  676  ls
+  677  cd media
+  678  ls
+  679  cd ..
+  680  cd var
+  681  ls
+  682  cd ..
+  683  cd run
+  684  ls
+  685  cd ..
+  686  cd usr
+  687  ls
+  688  cd sbin
+  689  ls
+  690  find /etc -type f
+  691  clear
+  692  /dev/null
+  693  cat /dev/null
+  694  clear
+  695  ls | wc
+  696  ls
+  697  find . type -f
+  698  ls -latr
+  699  ls -latr |wc- l
+  700  ls -latr |wc -l
+  701  find . -type f
+  702  find . -type f |wc -l
+  703  clear
+  704  who
+  705  clear
+  706  who
+  707  date
+  708  ls ./ |wc -l
+  709  ls ./
+  710  cd practice
+  711  ls
+  712  wc -c *.c -b
+  713  wc -c *.c | b
+  714  cat linesWithTaylor.txt | cat sorted.txt | wc -c
+  715  cat sorted.txt | wc -c
+  716  cat linesWithTaylor.txt | wc -c
+  717  cat linesWithTaylor.txt & cat sorted.txt | wc -c
+  718  cat linesWithTaylor.txt & sorted.txt | wc -c
+  719  clear
+  720  who | tee users.lst
+  721  clear
+  722  git status
+  723  ls
+  724  who
+  725  tee
+  726  man tee
+  727  who
+  728  nano 
+  729  man tar
+  730  man | wq!
+  731  man <
+  732  w
+  733  whoami
+  734  w
+  735  cd practice/
+  736  ls
+  737  sorted.txt < wc -l
+  738  <
+  739  wc -l < index.html
+  740  ls
+  741  man ps
+  742  man tee
+  743  man cut
+  744  ls
+  745  man tee
+  746  who | tee
+  747  who | wc -w |tee
+  748  cd practice/
+  749  who | wc -w |tee users.txt
+  750  ls
+  751  cat users.list
+  752  cat users.lst
+  753  cat users.txt
+  754  rm users.txt
+  755  who | wc -w |tee 
+  756  ls
+  757  cat users.lst 
+  758  who | tee | wc -w
+  759  ls
+  760  cat users.lst 
+  761  stat
+  762  stat linesWithTaylor.txt 
+  763  cd ~
+  764  cd \
+  765  cd /
+  766  ls
+  767  cd ..
+  768  ls
+  769  cd media
+  770  ls
+  771  cd ..
+  772  cd run
+  773  ls
+  774  cd NetworkManager/
+  775  ls
+  776  cd system-connections/
+  777  ls
+  778  cd ~
+  779  cd practice/
+  780  cd /run
+  781  ls
+  782  cd log
+  783  ls
+  784  cd journal/
+  785  ls
+  786  cd ~
+  787  mkfifo myPipe
+  788  cat < myPipe 
+  789  who
+  790  find /
+  791  clear
+  792  /proc/1196/task/1196/personality
+  793  ls
+  794  cd myPipe
+  795  cat MyPipe
+  796  dev/tty < myPipe 
+  797  find /
+  798  clear
+  799  man signal
+  800  ls
+  801  quit
+  802  clear
+  803  history
+  804  who
+  805  man kill
+  806  cd practice/
+  807  ps
+  808  ps aux
+  809  clear
+  810  ls | sort | more
+  811  man kill
+  812  kill -l
+  813  ps aux | grep firefox
+  814  ps aux
+  815  ps aux | grep george
+  816  ps aux head-1
+  817  ps aux | head
+  818  clear
+  819  kill -l
+  820  date
+  821  cat date.sh
+  822  time bash 
+  823  ps aux -head
+  824  ps aux head
+  825  ps aux | head
+  826  ps aux | head-1
+  827  ps aux | head1
+  828  ps aux | head -1
+  829  ulimit -a
+  830  bg
+  831  67
+  832  cd practice/
+  833  ls
+  834  linesWithTaylor.txt < wc
+  835  wc - l <linesWithTaylor.txt 
+  836  wc - l < linesWithTaylor.txt 
+  837  ulimit
+  838  ulimit -a
+  839  jobs
+  840  man fg
+  841  ls
+  842  cat echofile.txt 
+  843  os
+  844  ps aux | grep edge
+  845  ps aux | grep root
+  846  clear
+  847  ps aux | grep records5.txt
+  848  ps aux | grep bash infiDate
+  849  ps aux | grep georgesp24
+  850  ps aux | head -1
+  851  ps aux | grep systemmd
+  852  ps aux | grep systemd
+  853  ps aux | grep systemd | head
+  854  ps aux | grep systemd
+  855  ps aux | grep systemd | head -1
+  856  ps aux | head -1
+  857  mkdir assignment2
+  858  ls
+  859  cd assignment
+  860  cd assignment2
+  861  vi assignment2.txt
+  862  ls
+  863  find /etc -type f > one.txt 2> two.txt
+  864  ls
+  865  cat one.txt 
+  866  cat two.txt 
+  867  ls
+  868  vi assignment2.txt 
+  869  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/Global%20YouTube%20Statistics.csv
+  870  ls
+  871  cat Global\ YouTube\ Statistics.csv 
+  872  head Global\ YouTube\ Statistics.csv 
+  873  Global\ YouTube\ Statistics.csv head
+  874  head Global\ YouTube\ Statistics.csv 
+  875  clear
+  876  head Global\ YouTube\ Statistics.csv 
+  877  cut -d "," -f 11 Global\ YouTube\ Statistics.csv 
+  878  cut -d "," -f 15 Global\ YouTube\ Statistics.csv 
+  879  cut -d "," -f 17 Global\ YouTube\ Statistics.csv 
+  880  cut -d "," -f 19 Global\ YouTube\ Statistics.csv 
+  881  cut -d "," -f 20 Global\ YouTube\ Statistics.csv 
+  882  cut -d "," -f 21 Global\ YouTube\ Statistics.csv 
+  883  cut -d "," -f 20-23 Global\ YouTube\ Statistics.csv 
+  884  cut -d "," -f 20-22 Global\ YouTube\ Statistics.csv 
+  885  cut -d "," -f 20-22 Global\ YouTube\ Statistics.csv | sort
+  886  cut -d "," -f 20-22 Global\ YouTube\ Statistics.csv | unique -c
+  887  cut -d "," -f 20-22 Global\ YouTube\ Statistics.csv | uniq -c
+  888  cut -d "," -f 20-21 Global\ YouTube\ Statistics.csv | uniq -c
+  889  cut -d "," -f 20-21 Global\ YouTube\ Statistics.csv | uniq -c | sort
+  890  cut -d "," -f 20-21 Global\ YouTube\ Statistics.csv | uniq --count
+  891  cut -d "," -f 20-21 Global\ YouTube\ Statistics.csv | uniq --count | sort
+  892  vim Global\ YouTube\ Statistics.csv 
+  893  cut -d "," -f 20-21 Global\ YouTube\ Statistics.csv | sort | uniq --count 
+  894  cut -d "," -f 20-21 Global\ YouTube\ Statistics.csv | sort | uniq --count |sort
+  895  cut -d "," -f 20-21 Global\ YouTube\ Statistics.csv | sort | uniq --count | sort
+  896  cut -d "," -f 20-21 Global\ YouTube\ Statistics.csv | sort | uniq --count | sort | head -3
+  897  cut -d "," -f 20-21 Global\ YouTube\ Statistics.csv | uniq --count | sort | head -3
+  898  cut -d "," -f 20-21 Global\ YouTube\ Statistics.csv | sort | uniq --count | head -3
+  899  cut -d "," -f 20-21 Global\ YouTube\ Statistics.csv | sort | uniq --count 
+  900  cut -d "," -f 20-21 Global\ YouTube\ Statistics.csv | sort | uniq --count | cut d " " -f 1
+  901  cut -d "," -f 20-21 Global\ YouTube\ Statistics.csv | sort | uniq --count |
+  902  cut -d "," -f 20-21 Global\ YouTube\ Statistics.csv | sort | uniq --count 
+  903  cut -d "," -f 20-21 Global\ YouTube\ Statistics.csv | sort | uniq --count > numDates
+  904  cat numDates 
+  905  cut -d " " f -1 
+  906  cut -d " " -f 1 
+  907  cut -d " " f -1 Global\ YouTube\ Statistics.csv 
+  908  cut -d " " f -1 numDates 
+  909  cut -d " " -f 1 numDates 
+  910  cut -d "" -f 1 numDates 
+  911  numDat
+  912  numDates sort
+  913  sort numDates 
+  914  cut -d "," -f 20-21 Global\ YouTube\ Statistics.csv | sort | uniq --count 
+  915  cut -d "," -f 20-21 Global\ YouTube\ Statistics.csv | sort | uniq --count | sort -n
+  916  cut -d "," -f 20-21 Global\ YouTube\ Statistics.csv | sort | uniq --count | sort -n | head -3
+  917  cut -d "," -f 20-21 Global\ YouTube\ Statistics.csv | sort | uniq --count | sort -n | tail -3
+  918  vim assignment2.txt 
+  919  ps 
+  920  ps aux | grep georgesp24
+  921  ps aux
+  922  who
+  923  ps aux | grep georgesp24
+  924  vim assignment2.txt 
+  925  vi file.txt
+  926  vi assignment2.txt 
+  927  git status
+  928  git add assignment2.txt 
+  929  git status
+  930  git commit -m test
+  931  history > cmds.log
+  932  ls
+  933  git add assignment2.txt 
+  934  git status
+  935  cd ..
+  936  git status
+  937  git add assignment2.txt 
+  938  git add assignment2
+  939  git status
+  940  git commit -m test
+  941  git status
+  942  git push origin master
+  943  git push -user origin master
+  944  git push -u origin master
+  945  q!
+  946  l
+  947  ls
+  948  tmux ls
+  949  :wq!
+  950  wq!
+  951  :wq!
+  952  clear
+  953  ps aux
+  954  who
+  955  stat
+  956  stats
+  957  who stat
+  958  stats
+  959  stat
+  960  man stat
+  961  stat -f
+  962  who
+  963  ps
+  964  ps -a
+  965  ps -e
+  966  ps
+  967  ps auc
+  968  ps aux | head
+  969  ls tmux
+  970  tmux ls
+  971  ls
+  972  ls
+  973  tmux
+  974  tmux ls
+  975  tmux new-session -s noname
+  976  tmux ls
+  977  tmux attach-session 
+  978  tmux attach-session 0
+  979  tmux attach-session 
+  980  tmux attach 0
+  981  tmux attach-session 0
+  982  tmux attach -t 0
+  983  tmux ls
+  984  clear
+  985  tmux attach-session -t 1
+  986  tmux attach-session -t 2
+  987  tmux attach-session -t noname
+  988  tmux kill-session -t 0
+  989  tmux ls
+  990  tmux kill-session -t noname
+  991  ls
+  992  tmux ls
+  993  man sed
+  994  man awk
+  995  man sed
+  996  ls
+  997  mkdir Worksheet2
+  998  mkdir Worksheet3
+  999  cd assignment2
+ 1000  ls
+ 1001  cp Global\ YouTube\ Statistics.csv Worsheet3
+ 1002  cd ..
+ 1003  ls
+ 1004  cd Worksheet3
+ 1005  ls
+ 1006  cd ..
+ 1007  ls
+ 1008  cp Global\ YouTube\ Statistics.csv Worksheet3
+ 1009* 
+ 1010  cd Worksheet3
+ 1011  echo $PATH
+ 1012  cd ..
+ 1013  cp Global\ YouTube\ Statistics.csv \Worksheet3
+ 1014  cp Global\ YouTube\ Statistics.csv /Worksheet3
+ 1015  cd assignment2
+ 1016  cp Global\ YouTube\ Statistics.csv /Worksheet3
+ 1017  cp Global\ YouTube\ Statistics.csv /..
+ 1018  cp Global\ YouTube\ Statistics.csv 
+ 1019  cp Global\ YouTube\ Statistics.csv data
+ 1020  ls
+ 1021  cat data
+ 1022  clear
+ 1023  mv data ..
+ 1024  ls
+ 1025  cd ..
+ 1026  ls data
+ 1027  ls
+ 1028  mv data Worksheet3
+ 1029  cd Worksheet3
+ 1030  ls
+ 1031  data | head
+ 1032  data  head
+ 1033  head | data
+ 1034  data > head
+ 1035  vi data
+ 1036  man uniqu
+ 1037  man uniq
+ 1038  uniq -f
+ 1039  uniq -f 4 data
+ 1040* uniq -f 4 data 
+ 1041  head data 
+ 1042  clear
+ 1043  head data 
+ 1044  cut -d "," f 8,15 data 
+ 1045  cut -d "," f 15 data 
+ 1046  cut -d "," -f 8,15 data 
+ 1047  cut -d "," -f 8,15 data | sort
+ 1048  cut -d "," -f 8,15 data | sort |uniq --count
+ 1049  vim worksheet3.txt
+ 1050  cut -d "," -f 8,15 data | grep "United States" | sort |uniq --count
+ 1051  cut -d "," -f 8,15 data | grep "United States" | sort -u
+ 1052  cut -d "," -f 8,15 data | grep "United States" | sort -a
+ 1053  cut -d "," -f 8,15 data | grep "United States" | sort -k 2
+ 1054  cut -d "," -f 8,15 data | grep "United States" | sort -k 
+ 1055  cut -d "," -f 8,15 data | grep "United States" | sort -n
+ 1056  cut -d "," -f 8,15 data | grep "United States" | uniq --count |sort -n
+ 1057  cut -d "," -f 8,15 data | grep "United States" | sort | uniq --count |sort -n
+ 1058* cut -d "," -f 8,15 data | sort -n
+ 1059  cut -d "," -f 8,15 data | grep "United States" | sort | uniq --count |sort -n
+ 1060  cut -d "," -f 8,15 data | grep "United States" | sort |sort -n
+ 1061  cut -d "," -f 8,15 data | grep "United States" | sort-k2 |sort -n
+ 1062  cut -d "," -f 8,15 data | grep "United States" | sort -k 2 |sort -n
+ 1063  cut -d "," -f 8,15 data | grep "United States" | sort -k 2 
+ 1064  cut -d "," -f 15 data | grep "United States" | sort -k 2 
+ 1065  cut -d "," -f 15 data | sort -k 2 
+ 1066  cut -d "," -f 8,15 data | grep "United States" | sort -k 2 
+ 1067  cut -d "," -f 8,15 data | grep "United States" | sort -nk2,1 -t 
+ 1068  man sort
+ 1069  cut -d "," -f 8,15 data | grep "United States" | sort -nk2,1  
+ 1070  cut -d "," -f 8,15 data | grep "United States" | sort -nk2,2  
+ 1071  cut -d "," -f 8,15 data | grep "United States" | sort -nk2,2 -t" " 
+ 1072  cut -d "," -f 8,15 data | grep "United States" | sort -nk2,2 -t"0" 
+ 1073  cut -d "," -f 8,15 data | grep "United States" | sort -g 
+ 1074  cut -d "," -f 8,15 data | grep "United States" | sort -nk2,2 -g 
+ 1075  cut -d "," -f 8,15 data | grep "United States" | sort -g
+ 1076  cut -d "," -f 8,15 data | grep "United States" | sort -t':' -k2n
+ 1077  cut -d "," -f 15 data | sort -n
+ 1078  cut -d "," -f 15 data | grep "United States" data | cut -d "," -f 15 data | sort -n
+ 1079  cut -d "," -f 15 data | grep "United States" data 
+ 1080* cut -d "," -f 8 data 
+ 1081  cut -d "," -f 8 data | grep "United States" data 
+ 1082  cut -d "," -f 8 data
+ 1083  cut -d "," -f 8,15 data
+ 1084  cut -d "," -f 8,15 data | grep "United States"
+ 1085  cut -d "," -f 8,15 data | grep "United States" | sort-n
+ 1086  cut -d "," -f 8,15 data | grep "United States" | sort -n
+ 1087  cut -d "," -f 8,15 data | grep "United States" | sort -n --key=1
+ 1088  cut -d "," -f 8,15 data | grep "United States" | sort -n --key=2
+ 1089  man sort
+ 1090  cut -d "," -f 8,15 data | grep "United States" | sort -n -V
+ 1091  man sort
+ 1092  cut -d "," -f 8,15 data | grep "United States" | sort -n -z
+ 1093  cut -d "," -f 8,15 data | grep "United States" | sort -n -z |sort
+ 1094  cut -d "," -f 8,15 data | grep "United States" | sort -n -i
+ 1095  cut -d "," -f 8,15 data | grep "United States" | sort -n 
+ 1096  cut -d "," -f 8,15 data | grep "United States" | sort -V 
+ 1097  cut -d "," -f 8,15 data | grep "United States" | sort -V head
+ 1098  cut -d "," -f 8,15 data | grep "United States" | sort -V |head
+ 1099  cut -d "," -f 8,15 data | grep "United States" | sort -V | tail -3
+ 1100  cut -d "," -f 8,15 data | grep "United States" | sort -V | tail -3 >> worksheet3.txt 
+ 1101  cut -d "," -f 2,8,15 data | grep "United Kingdom" | sort -V | tail -3 >> worksheet3.txt 
+ 1102  cut -d "," -f 2,8,15 data | grep "United States" | sort -V | tail -3 >> worksheet3.txt 
+ 1103  cut -d "," -f 8,15 data | grep "United Kingdom" | sort -V | tail -3 >> worksheet3.txt 
+ 1104  cut -d "," -f 2,8,15 data | grep "United Kingdom" | sort -V | tail -3 
+ 1105  cut -d "," -f 8,15 data | grep "United Kingdom" | sort -V | tail -3 
+ 1106  cut -d "," -f 1,8,15 data | grep "United Kingdom" | sort -V | tail -3 
+ 1107  cut -d "," -f 1,8,15 data | grep "United Kingdom" | sort -V -k=3 | tail -3 
+ 1108  cut -d "," -f 1,8,15 data | grep "United Kingdom" | sort -V -key=3 | tail -3 
+ 1109  cut -d "," -f 1,8,15 data | grep "United Kingdom" | sort -V -k3 | tail -3 
+ 1110  cut -d "," -f 1,8,15 data | grep "United Kingdom" | sort -V --key=3 | tail -3 
+ 1111  cut -d "," -f 15,18,1 data | grep "United Kingdom" | sort -V --key=3 | tail -3 
+ 1112  cut -d "," -f 15,18,1 data | grep "United Kingdom" | sort -V | tail -3 
+ 1113  cut -d "," -f 8,15 data | grep "United Kingdom" | sort -V | tail -3 >> worksheet3.txt 
+ 1114  cut -d "," -f 8,15 data | grep "United Kingdom" | sort -V | tail -3 
+ 1115  cut -d "," -f 8,15 data | grep "United States" | sort -V | tail -3 
+ 1116  cut -d "," -f 8,15 data | grep "United States" | sort -V | tail -3 >> worksheet3.txt 
+ 1117  cut -d "," -f 8,15 data | grep "India" | sort -V | tail -3 >> worksheet3.txt 
+ 1118  cut -d "," -f 8,15 data | grep "India" | sort -V | tail -3 |sort
+ 1119  cut -d "," -f 8,15 data | grep "India" | sort -V | tail -3 |sort-a
+ 1120  cut -d "," -f 8,15 data | grep "India" | sort -V | tail -3 |sort -a
+ 1121  cut -d "," -f 8,15 data | grep "India" | sort -V | tail -3 |sort -r
+ 1122  cut -d "," -f 8,3 data | grep "India" | sort -V | tail -3 |sort -r
+ 1123  cut -d "," -f 8,3 data | grep "India" | sort -V | tail -3 |
+ 1124  cut -d "," -f 8,3 data | grep "India" | sort -V | tail -3 
+ 1125  cut -d "," -f 8,3 data | grep "India" | sort -V | 
+ 1126  cut -d "," -f 8,3 data | grep "India" | sort -V 
+ 1127  cut -d "," -f 8,3 data | grep "India" | sort -V | tail -3 |sort -r
+ 1128  cut -d "," -f 8,3 data | grep "India" | sort -V | tail -3 | sort -r
+ 1129  cut -d "," -f 8,3 data | grep "India" | sort -V | tail -3 | sort -r >> worksheet3.txt 
+ 1130  cut -d "," -f 8,3 data | grep "United Kingdom" | sort -V | tail -3 | sort -r >> worksheet3.txt 
+ 1131  cut -d "," -f 8,3,2 data | grep "United States" | sort -V | tail -3 | sort -r >> worksheet3.txt 
+ 1132  cut -d "," -f 8,3 data | grep "United States" | sort -V | tail -3 | sort -r >> worksheet3.txt 
+ 1133  cut -d "," -f 8,3 data | grep "United Kingdom" | sort -V | tail -3 | sort -r >> worksheet3.txt 
+ 1134  cut -d "," -f 8,3 data | grep "Indi" | sort -V | tail -3 | sort -r >> worksheet3.txt 
+ 1135  cut -d "," -f 8,3 data | grep "India" | sort -V | tail -3 | sort -r >> worksheet3.txt 
+ 1136  head -1 data 
+ 1137  cut -d "," -f 5,3 data | grep "India" | sort -V | tail -3 | sort -r  
+ 1138  cut -d "," -f 5,3 data | grep "Sports" | sort -V | tail -3 | sort -r  
+ 1139  cut -d "," -f 5,3 data | grep "Sports" | sort -V   
+ 1140  cut -d "," -f 5,3 data | grep "Sports" | sort -V | tail -3 | sort -r >> worksheet3.txt 
+ 1141  cut -d "," -f 5,3 data | grep "Education" | sort -V | tail -3 | sort -r >> worksheet3.txt 
+ 1142  cut -d "," -f 5,3 data | grep "Entertainment" | sort -V | tail -3 | sort -r >> worksheet3.txt 
+ 1143  history > cmds.log

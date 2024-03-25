@@ -1,0 +1,48 @@
+Question 1:
+These are the answers and the commands I used.
+
+Top monthly salaries from United Kingdom:
+United Kingdom,62700
+United Kingdom,83000
+United Kingdom,123900
+
+cut -d "," -f 8,15 data | grep "United Kingdom" | sort -V | tail -3 >> worksheet3.txt
+
+Top monthly salaries from United States:
+United States,340900
+United States,493800
+United States,576000
+
+cut -d "," -f 8,15 data | grep "United States" | sort -V | tail -3 >> worksheet3.txt
+
+Top monthly Salaries from India
+India,426800
+India,455900
+India,564600
+
+cut -d "," -f 8,15 data | grep "India" | sort -V | tail -3 >> worksheet3.txt
+
+Question 2:
+These are the answers and the commands I used.
+
+
+Most total subscribers Sports:
+96000000,Sports
+59500000,Sports
+20700000,Sports
+
+cut -d "," -f 5,3 data | grep "Sports" | sort -V | tail -3 | sort -r >> worksheet3.txt
+
+Most total subscribers Education:
+68200000,Education
+65900000,Education
+162000000,Education
+
+cut -d "," -f 5,3 data | grep "Education" | sort -V | tail -3 | sort -r >> worksheet3.txt
+
+Most total subscribers Entertainment:
+98900000,Entertainment
+70500000,Entertainment
+166000000,Entertainment
+
+cut -d "," -f 5,3 data | grep "Entertainment" | sort -V | tail -3 | sort -r >> worksheet3.txt
